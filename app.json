@@ -4,8 +4,8 @@
     "logo": "https://i.imgur.com/sJCpf2j.jpeg",
     "keywords": ["whatsapp", "userbot", "Rudhra", "WhatsAsena", "rudhra", "bot", "ai"],
     "repository": "https://github.com/Madhavmanu/Rudhra2.0",
-    "website":   "https://github.com/Madhavmanu/Rudhra2.0",
-    "success_url": "https://github.com/Madhavmanu/Rudhra2.0",
+    "website":   "https://github.com/prince-rudh/Rudhra2.0",
+    "success_url": "https://github.com/prince-rudh/Rudhra2.0",
     "stack": "container",
     "env": {
         "RUDHRA_SESSION": {
